@@ -1,4 +1,3 @@
-# name, grade, gpa, tardies
 def highest_student_gpa
   "SELECT gpa FROM students ORDER BY gpa DESC LIMIT 1;"
 end

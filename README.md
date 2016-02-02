@@ -5,6 +5,6 @@
 
 We have a database full of students. The schema is as follows:
 ![](http://readme-pics.s3.amazonaws.com/sql-students.png)
-Run `learn` to get started. Write your `SQL` in `lib/students` to get the specs in `spec/student_spec.rb` to pass.
+Run `learn` to get started. Write your `SQL` in `lib/students` to get the specs in `spec/student_spec.rb` to pass. Your SQL queries within the methods should be written inside quotes like `"SELECT * FROM cats;"`.
 
 <a href='https://learn.co/lessons/sql-aggregate-functions-lab' data-visibility='hidden'>View this lesson on Learn.co</a>

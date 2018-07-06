@@ -1,5 +1,4 @@
 ## Code your solution below. Note that your SQL queries should be in quotation marks. 
-# lab_database
 
 def highest_student_gpa
   "SELECT MAX(gpa) FROM students";
